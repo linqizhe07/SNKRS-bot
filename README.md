@@ -36,6 +36,7 @@ The bot authenticates with your Nike account via the SNKRS API, looks up the tar
 - `curl_cffi` (strongly recommended for TLS fingerprint spoofing)
 
 ```bash
+git clone http://github.com/Linqizhe07/SNKRS-bot.git
 pip install requests curl_cffi
 ```
 
